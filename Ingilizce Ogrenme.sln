@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingilizce Ogrenme", "Ingilizce Ogrenme.csproj", "{62DEE222-52AE-4F28-9459-DE791C4C6156}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IngilizceOgrenSetup", "..\IngilizceOgrenSetup\IngilizceOgrenSetup.vdproj", "{236A3607-8B4E-40FA-8429-155A12114AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DEE222-52AE-4F28-9459-DE791C4C6156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DEE222-52AE-4F28-9459-DE791C4C6156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DEE222-52AE-4F28-9459-DE791C4C6156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DEE222-52AE-4F28-9459-DE791C4C6156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236A3607-8B4E-40FA-8429-155A12114AFB}.Debug|Any CPU.ActiveCfg = Debug
+		{236A3607-8B4E-40FA-8429-155A12114AFB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E814B2-BEF2-42C7-9743-6D19976A9F36}
+	EndGlobalSection
+EndGlobal
